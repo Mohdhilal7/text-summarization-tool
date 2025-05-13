@@ -16,7 +16,7 @@ A simple and powerful text summarization tool built using Hugging Face Transform
 
 ## 📷 Screenshot
 
-![Text Summarization App Screenshot]([https://user-images.githubusercontent.com/your-username/your-image.png](https://miro.medium.com/v2/resize:fit:1400/1*meinwsDH0BbxMnj1iPvzNw.png)) <!-- Add your screenshot URL here -->
+![Text Summarization App Screenshot]([https://user-images.githubusercontent.com/your-username/your-image.png](https://miro.medium.com/v2/resize:fit:1400/1*meinwsDH0BbxMnj1iPvzNw.png) <!-- Add your screenshot URL here -->
 
 ---
 
