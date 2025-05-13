@@ -11,5 +11,5 @@ This project summarizes long text into concise summaries using Hugging Face Tran
 
 ```bash
 pip install -r requirements.txt
-streamlit run app/streamlit_app.py
+python -m streamlit run app/streamlit_app.py
 ```
